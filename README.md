@@ -15,5 +15,5 @@
 https://codepen-editor-clone-react.vercel.app/
 
 ## Preview -
-![image] https://raw.githubusercontent.com/mozammilashraf/codepen-editor-clone-react/main/public/codepen%20pic.jpg
+![image] (https://raw.githubusercontent.com/mozammilashraf/codepen-editor-clone-react/main/public/codepen%20pic.jpg)
 
